@@ -1,0 +1,26 @@
+* {
+    margin: 10px;
+    padding: 0;
+  }
+  
+  html {
+    font-family: Poppins, Helvetica, sans-serif;
+  }
+  
+  #canvas1{
+    border: 5px solid lightpink;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 600px;
+    height: 600px;
+  }
+  
+  
+  #description {
+      font-size: xx-large;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+      color: violet;
+  }
+  
